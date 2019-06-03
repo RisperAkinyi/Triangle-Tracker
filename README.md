@@ -16,7 +16,8 @@
 ## Behavior Driven Development (BDD)
 |heading1 | Input | Result|
 |******* | ******|
-|heading1 | Input | Result|
+|Equilateral Triangle | 3, 3, 3 | |
+
 
 
 ## Support and contact details
