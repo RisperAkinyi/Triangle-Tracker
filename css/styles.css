@@ -37,6 +37,11 @@ body{
     font-size: 35px;
     color: rgb(90, 88, 88);
 }
+#input1:hover{
+    background-color: rgb(90, 88, 88);
+    color: white;
+    transition: 1s;
+}
 #input2{
     outline: none;
     border: none;
@@ -45,6 +50,11 @@ body{
     text-align: center;
     color: rgb(90, 88, 88);;
 }
+#input2:hover{
+    background-color: rgb(90, 88, 88);
+    color: white;
+    transition: 1s;
+}
 #input3{
     outline: none;
     border: none;
@@ -52,6 +62,11 @@ body{
     font-size: 35px;
     text-align: center;
     color: rgb(90, 88, 88);
+}
+#input3:hover{
+    background-color: rgb(90, 88, 88);
+    color: white;
+    transition: 1s;
 }
 .space{
     padding-top: 20px;
