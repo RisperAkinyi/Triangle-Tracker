@@ -16,7 +16,12 @@
 ## Behavior Driven Development (BDD)
 |heading1 | Input | Result|
 |******* | ******|
-|Equilateral Triangle | 3, 3, 3 | |
+|Equilateral Triangle | 3, 3, 3 | yeap! thats definitately an equilateral triangle |
+|******* | ******|
+|Isosceles Triangle | 3, 3, 4 | hooray! thats an isosceles triangle|
+|******* | ******|
+|Scalene Triangle | 3, 3, 4 | hooray! thats an isosceles triangle |
+
 
 
 
