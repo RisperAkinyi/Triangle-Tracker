@@ -20,7 +20,7 @@
 |******* | ******|
 |Isosceles Triangle | 3, 3, 4 | hooray! thats an isosceles triangle|
 |******* | ******|
-|Scalene Triangle | 3, 3, 4 | hooray! thats an isosceles triangle |
+|Scalene Triangle | 3, 3, 4 | you are a genius, its a scalene triangle |
 
 
 
