@@ -71,3 +71,19 @@ body{
 .space{
     padding-top: 20px;
    }
+.btn{
+    position: absolute;
+    left: 20%;
+    height: 10%;
+    width: 40%; 
+    border-radius: 5%;
+    outline: none;
+    border: none;
+    font-size: 18px;
+}
+.btn:hover{
+    cursor: pointer;
+    color: white;
+    background: rgb(61, 58, 57);
+    transition: 1s;
+}
