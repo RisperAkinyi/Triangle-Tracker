@@ -9,6 +9,15 @@ function checkSide(){
     if(isNaN(side1) || isNaN(side2) || isNaN(side3)){
         alert("Try again by inputting a number") ;   
     }
+////Function for evaluating a NOT triangle
+else if((side1 + side2 <= side3) || (side2 + side3 <= side1) || (side3 + side1 <= side2)){
+    alert("This triangle cannot be formed");
+}
+////Function for evaluating an equilateral triangle
+else if (side1 === side2 && side2 === side3 && side3 === side1 ){
+    alert("yeap! thats definitately an equilateral triangle");
+}
+    
 
 
 }
