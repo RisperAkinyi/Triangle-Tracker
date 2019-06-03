@@ -15,7 +15,9 @@ body{
 }
 .descP{
     color: rgb(236, 231, 231);
-    padding-top: 26px;
+    padding-top: 36px;
     font-size: 20px;
     text-align: center;
+    padding-left: 10%;
+    padding-right: 10%
 }
