@@ -21,3 +21,11 @@ body{
     padding-left: 10%;
     padding-right: 10%
 }
+.form{
+    position: absolute;
+    top: 40%;
+    left: 32%;
+    height: 50%;
+    width: 34.5%; 
+    
+}
