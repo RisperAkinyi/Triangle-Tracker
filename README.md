@@ -4,7 +4,7 @@
  This is an application that will help us know whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all.
 
 ## Setup/Installation Requirements
-* git clone link
+* git clone https://github.com/RisperAkinyi/Triangle-Tracker.git
 * cd Triangle Tracker
 * Open index.html from a browser
 
@@ -21,15 +21,11 @@
 |Scalene Triangle | 3, 3, 4 | you are a genius, its a scalene triangle |
 |Not a Triangle | 9, 3, 4 | This triangle cannot be formed |
 
-
-
-
-
 ## Support and contact details
 Contact me at risperakinyi3@gmail.com if you run into any issue or have any questions
 
 ## Live Demo
-You can view live demo of my triangle tracker at https://risperakinyi.github.io/Portfolio/
+You can view live demo of my triangle tracker at https://risperakinyi.github.io/Triangle-Tracker/
 
 ### License
 Permission is hereby granted, free of charge, to any person obtaining a copy
