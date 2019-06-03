@@ -29,3 +29,30 @@ body{
     width: 34.5%; 
     
 }
+#input1{
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 35px;
+    color: rgb(90, 88, 88);
+}
+#input2{
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    font-size: 35px;
+    text-align: center;
+    color: rgb(90, 88, 88);;
+}
+#input3{
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    font-size: 35px;
+    text-align: center;
+    color: rgb(90, 88, 88);
+}
+.space{
+    padding-top: 20px;
+   }
